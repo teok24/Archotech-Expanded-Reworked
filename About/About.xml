@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>Archotech Expanded Reworked</name>
+		<author>Teok25</author>
+		<packageId>Teok25.ArchotechExpandedReworked</packageId>
+		<url></url>
+		<supportedVersions>
+			<li>1.4</li>
+		</supportedVersions>
+		<description>A reworked Archotech Expanded!</description>
+</ModMetaData>
